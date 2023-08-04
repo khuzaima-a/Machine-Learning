@@ -3,13 +3,9 @@ Welcome to the "Machine Learning Assignments" repository! This repository contai
 
 # Tree Structure
 Machine Learning
-
-  |--> Assignment #
-  
+  |--> Assignment No. X
     |--> solution files (.ipynb)
-    
     |--> .csv files (optional)
-    
     |--> .py files  (optional)
 
 ### Assignment 1 is all about Python
