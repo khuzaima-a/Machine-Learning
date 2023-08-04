@@ -9,6 +9,4 @@ Machine Learning
     |--> .csv files (optional)
     |--> .py files  (optional)
 ```
-
-### Assignment 1 is all about Python
       
